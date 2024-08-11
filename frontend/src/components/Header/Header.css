@@ -1,0 +1,16 @@
+.nav_btn1 {
+	position: fixed;
+	margin-right: 10px;
+}
+
+.navbar {
+	background-color: #25667b !important;
+}
+
+.wrapper_nav {
+	background-color: #1a4a5a;
+}
+
+.nav_items {
+	color: rgb(255, 255, 255);
+}
